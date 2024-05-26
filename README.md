@@ -3,8 +3,7 @@
 Notre projet est un programme de gestion de données qui a été développer en langage c. Le fonctionnement du code est détaillé dans le fichier "Rapport CER-JO".
 
 ## Compilation
-Pour la compilation veuillez utiliser la commande :
-'make' si le fichier ne se compile pas correctement saisissez la commande 'make -B'
+Pour la compilation veuillez utiliser la commande'make' si le fichier ne se compile pas correctement saisissez la commande 'make -B'
 ## Exécution
 Pour lancer le programme veuillez utilisez la commande :
 './excutable'
